@@ -1,0 +1,2 @@
+# ESP32S3_ADC_eMMC_Ctrl
+控制ESP32将ADC_Data写入eMMC，并用串口读取
